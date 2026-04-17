@@ -1,0 +1,7 @@
+{"behavior": "coordination_other_ais", "multiplier": -3.0, "mean_prob_diff": -8.484221382812265e-08, "layer": 15}
+{"behavior": "coordination_other_ais", "multiplier": -2.0, "mean_prob_diff": 8.415378894565665e-07, "layer": 15}
+{"behavior": "coordination_other_ais", "multiplier": -1.0, "mean_prob_diff": -1.7361456285472018e-06, "layer": 15}
+{"behavior": "coordination_other_ais", "multiplier": 0.0, "mean_prob_diff": -9.792926858885886e-06, "layer": 15}
+{"behavior": "coordination_other_ais", "multiplier": 1.0, "mean_prob_diff": -1.114106516370228e-05, "layer": 15}
+{"behavior": "coordination_other_ais", "multiplier": 2.0, "mean_prob_diff": 1.3156878908282543e-06, "layer": 15}
+{"behavior": "coordination_other_ais", "multiplier": 3.0, "mean_prob_diff": 8.320012422956547e-06, "layer": 15}

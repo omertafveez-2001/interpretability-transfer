@@ -1,0 +1,7 @@
+{"behavior": "hallucination", "multiplier": -3.0, "mean_prob_diff": 0.10376026093959809, "layer": 39}
+{"behavior": "hallucination", "multiplier": -2.0, "mean_prob_diff": 0.11483156204223632, "layer": 39}
+{"behavior": "hallucination", "multiplier": -1.0, "mean_prob_diff": 0.1260468703508377, "layer": 39}
+{"behavior": "hallucination", "multiplier": 0.0, "mean_prob_diff": 0.13647235572338104, "layer": 39}
+{"behavior": "hallucination", "multiplier": 1.0, "mean_prob_diff": 0.1453683280944824, "layer": 39}
+{"behavior": "hallucination", "multiplier": 2.0, "mean_prob_diff": 0.15209587633609772, "layer": 39}
+{"behavior": "hallucination", "multiplier": 3.0, "mean_prob_diff": 0.15585554718971253, "layer": 39}

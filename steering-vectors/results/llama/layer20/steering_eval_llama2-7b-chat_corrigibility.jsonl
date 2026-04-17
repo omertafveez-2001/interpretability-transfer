@@ -1,0 +1,7 @@
+{"behavior": "corrigibility", "multiplier": -3.0, "mean_prob_diff": 4.789489412533321e-06, "layer": 20}
+{"behavior": "corrigibility", "multiplier": -2.0, "mean_prob_diff": -7.579329409498209e-07, "layer": 20}
+{"behavior": "corrigibility", "multiplier": -1.0, "mean_prob_diff": 2.6322448576542727e-07, "layer": 20}
+{"behavior": "corrigibility", "multiplier": 0.0, "mean_prob_diff": -1.2422367984438466e-05, "layer": 20}
+{"behavior": "corrigibility", "multiplier": 1.0, "mean_prob_diff": -5.71529117874281e-06, "layer": 20}
+{"behavior": "corrigibility", "multiplier": 2.0, "mean_prob_diff": 6.753061988007403e-07, "layer": 20}
+{"behavior": "corrigibility", "multiplier": 3.0, "mean_prob_diff": 5.079906728933103e-08, "layer": 20}

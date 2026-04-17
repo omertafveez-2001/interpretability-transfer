@@ -1,0 +1,7 @@
+{"behavior": "myopic_reward", "multiplier": -3.0, "mean_prob_diff": 0.002916322946548462, "layer": 23}
+{"behavior": "myopic_reward", "multiplier": -2.0, "mean_prob_diff": 0.003589599132537842, "layer": 23}
+{"behavior": "myopic_reward", "multiplier": -1.0, "mean_prob_diff": 0.004242128133773804, "layer": 23}
+{"behavior": "myopic_reward", "multiplier": 0.0, "mean_prob_diff": 0.004870187640190125, "layer": 23}
+{"behavior": "myopic_reward", "multiplier": 1.0, "mean_prob_diff": 0.005474332571029663, "layer": 23}
+{"behavior": "myopic_reward", "multiplier": 2.0, "mean_prob_diff": 0.006055946946144104, "layer": 23}
+{"behavior": "myopic_reward", "multiplier": 3.0, "mean_prob_diff": 0.006613163948059082, "layer": 23}

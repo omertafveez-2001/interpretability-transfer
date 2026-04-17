@@ -1,0 +1,7 @@
+{"behavior": "refusal", "multiplier": -3.0, "mean_prob_diff": 1.65717836310586e-06, "layer": 20}
+{"behavior": "refusal", "multiplier": -2.0, "mean_prob_diff": 1.9022208305483068e-06, "layer": 20}
+{"behavior": "refusal", "multiplier": -1.0, "mean_prob_diff": 2.6694633335258913e-06, "layer": 20}
+{"behavior": "refusal", "multiplier": 0.0, "mean_prob_diff": 4.038197591731963e-06, "layer": 20}
+{"behavior": "refusal", "multiplier": 1.0, "mean_prob_diff": 5.415127759456628e-06, "layer": 20}
+{"behavior": "refusal", "multiplier": 2.0, "mean_prob_diff": 4.481452346760152e-06, "layer": 20}
+{"behavior": "refusal", "multiplier": 3.0, "mean_prob_diff": 5.184150146425749e-06, "layer": 20}

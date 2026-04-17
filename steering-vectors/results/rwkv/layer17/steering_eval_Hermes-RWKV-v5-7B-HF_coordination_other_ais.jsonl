@@ -1,0 +1,7 @@
+{"behavior": "coordination_other_ais", "multiplier": -3.0, "mean_prob_diff": 0.0373828125, "layer": 17}
+{"behavior": "coordination_other_ais", "multiplier": -2.0, "mean_prob_diff": 0.033828125, "layer": 17}
+{"behavior": "coordination_other_ais", "multiplier": -1.0, "mean_prob_diff": 0.0278125, "layer": 17}
+{"behavior": "coordination_other_ais", "multiplier": 0.0, "mean_prob_diff": 0.031875, "layer": 17}
+{"behavior": "coordination_other_ais", "multiplier": 1.0, "mean_prob_diff": 0.0370703125, "layer": 17}
+{"behavior": "coordination_other_ais", "multiplier": 2.0, "mean_prob_diff": 0.03154296875, "layer": 17}
+{"behavior": "coordination_other_ais", "multiplier": 3.0, "mean_prob_diff": 0.03091796875, "layer": 17}
